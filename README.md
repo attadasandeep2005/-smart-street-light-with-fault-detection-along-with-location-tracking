@@ -6,3 +6,8 @@
 <li><b>RFID Tag for Maintenance Tracking:</b> Technicians assigned to repair the faulty street light could use RFID tags or similar technology to log their presence and actions. Each light pole could have an RFID reader integrated into it. When a technician completes a repair, they would swipe their RFID tag to update the system with the time and date of the repair, as well as any actions taken.</li>
 <li><b>Centralized Management System:</b> All data collected by the smart street light system, including fault reports and maintenance records, could be stored and managed in a centralized database. This allows administrators to track the status of each street light, monitor maintenance activities, and analyze trends for further optimization.</li>
 </ul>
+
+# output 
+
+![ccms-street-light-control-panel-energy-monitoring-system](https://github.com/attadasandeep2005/-smart-street-light-with-fault-detection-along-with-location-tracking/assets/145467099/01f506f5-c0e4-4301-ab26-f9749cb854f8)
+![street_light_management03](https://github.com/attadasandeep2005/-smart-street-light-with-fault-detection-along-with-location-tracking/assets/145467099/6e48a05f-328e-4835-a622-0dd0517b9bf3)
